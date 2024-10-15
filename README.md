@@ -21,14 +21,44 @@ ___
 H<sub>2</sub>O<br>
 X<sup>3</sup>
 
-<!-- 링크 -->
-[순천향대학교](http://sch.ac.kr)
-<!-- 이미지 -->
-![로고](https://home.sch.ac.kr/_res/sch/img/logo_link2.png)
-<img src="https://www.google.com/imgres?q=%EA%B3%A0%EC%96%91%EC%9D%B4&imgurl=https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F922%2F470%2Fimgdb%2Foriginal%2F2019%2F1205%2F20191205500909.jpg&imgrefurl=https%3A%2F%2Fwww.hani.co.kr%2Farti%2Fanimalpeople%2Fcompanion_animal%2F919690.html&docid=HbrN2FdYFAGSOM&tbnid=jrzBs-luctHVsM&vet=12ahUKEwjV4OKr-Y-JAxXGoK8BHSB-KEwQM3oECBoQAA..i&w=922&h=470&hcb=2&ved=2ahUKEwjV4OKr-Y-JAxXGoK8BHSB-KEwQM3oECBoQAA" width="100px"></img>
 
 <!-- 표 -->
 |야채|과일|고기|
 |:--|--:|:--:|
 |아스파라거스|배|닭고기|
 |오이|바나나|소|
+
+
+<!-- 코드 -->
+코드 1 : `#include<iostream>` 입니다.<br>
+코드 2 :
+```c++
+#include<iostream>
+int main()
+{
+return 0;
+}
+```
+코드 3 :
+```
+#include<iostream>
+int main()
+{
+return 0;
+}
+```
+
+<!-- 체크박스 -->
+* [ ] 여자
+• [x] 남자
+<!-- https://img.shields.io, https://simpleicons.org/ -->
+```
+https://img.shields.io/badge/
+<img src="https://img.shields.io/badge/{ 뱃 지 이 름 }-{ 뱃 지 색 깔 }?style={ 뱃 지 스 타 일 }&logo={ 로고이
+름}&logoColor={로고색깔}"/>
+https://simpleicons.org/
+```
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=
+white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=red"/>
+<img src="https://img.shields.io/badge/any_text-you_like-F09820"/>
